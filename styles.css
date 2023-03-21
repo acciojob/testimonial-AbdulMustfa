@@ -10,7 +10,5 @@
 	font-size:10px;
 	justify-content:space-between;
 	background-color:white;
-}
-p.signature{
-	text-align-last:right;
+	text-align:right;
 }
